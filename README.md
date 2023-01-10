@@ -1,5 +1,5 @@
 # Single-Page Website
-A single-page website with specified functionality and formatting using only HTML, SCSS, and Javascript. It contains boilerplate information that can be replaced by meaningful content. This assignment will give you first-hand experience with HTML5 (e.g. header, canvas, video), CSS3/SASS (e.g. use of webfonts, animations, layout), and Javascript(ES5 or ES6).
+A single-page website with specified functionality and formatting using only HTML, SCSS, and Javascript. It contains boilerplate information that can be replaced by meaningful content. This website utilizes HTML5 (e.g. header, canvas, video), CSS3/SASS (e.g. use of webfonts, animations, layout), and Javascript(ES6).
 
 #### Features 
 
