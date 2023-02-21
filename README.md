@@ -21,3 +21,10 @@ A single-page website with specified functionality and formatting using only HTM
 12. CSS3 Animations: Use of CSS3 animations.
 13. Use of scalable vector icons through CSS.
 14. Inclusion of social media icons.
+
+#### Getting Started
+1. Install dependencies:
+`npm install`
+2. Start the dev server:
+`npm start`
+3. Open a browser and go to `http://localhost:8080/` to view your page. You should see "Hello World! Welcome to MP1!" at the top of the screen. Note that if for some reason your port 8080 is occupied, it will default to 8081.
