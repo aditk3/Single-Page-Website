@@ -1,4 +1,6 @@
 # Single-Page Website
+[Video Demonstration](https://youtu.be/LhTY_pKqK28)
+
 A single-page website with specified functionality and formatting using only HTML, SCSS, and Javascript. It contains boilerplate information that can be replaced by meaningful content. This website utilizes HTML5 (e.g. header, canvas, video), CSS3/SASS (e.g. use of webfonts, animations, layout), and Javascript(ES6).
 
 #### Features 
